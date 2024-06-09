@@ -64,6 +64,10 @@ The following Python packages are used in the project:
 4. **Notify User:**
    - Notify the user about the happy music recommendations.
 
+## **Analyzing Database:**
+
+The application can also analyze a database of tracks to suggest happy music. Ensure your database is in a compatible format (e.g., CSV) and load it using pandas.
+
 ## **License:**
 
 This project is licensed under the MIT License. See the LICENSE file for details.

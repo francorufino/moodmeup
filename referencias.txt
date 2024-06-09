@@ -2,14 +2,12 @@ instalations:
 pip install pandas
 pip install notify-py
 pip install requests
-pip install pandas
-
-
+pip install python-dotenv
 
 imports:
+import pandas as pd
 from notifypy import Notify
 import requests
-import pandas as pd
 import base64
 import requests
 from dotenv import load_dotenv
