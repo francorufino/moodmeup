@@ -1,0 +1,10 @@
+instalations:
+pip install pandas
+pip install notify-py
+pip install requests
+
+
+imports:
+from notifypy import Notify
+import requests
+import pandas as pd
